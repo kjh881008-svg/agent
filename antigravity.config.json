@@ -1,0 +1,13 @@
+{
+    "models": {
+        "local": {
+            "provider": "ollama",
+            "baseUrl": "http://127.0.0.1:11434",
+            "model": "gemma4:e4b",
+            "temperature": 0.1,
+            "maxTokens": 1024,
+            "contextWindow": 4096
+        }
+    },
+    "defaultModel": "local"
+}
