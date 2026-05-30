@@ -65,3 +65,10 @@ _세션: 2026-05-28T15-51_
 - WCAG AA 대비비율 미달 색상(#FF6B6B) 수정
 - 오류 예측 모델 임계값 0.7→0.85 조정
 _세션: 2026-05-30T15-30_
+
+## [2026-05-30] 📁 🔍 Researcher 파일 액션:
+❌ 편집 실패: ~/myroom/research/error_pre
+- src/models/error_model.py 파일을 생성한다
+- reports/coverage_report.html 파일을 생성한다
+- 존재하지 않는 파일은 생성한다
+_세션: 2026-05-30T15-37_
