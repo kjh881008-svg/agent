@@ -174,3 +174,10 @@ _세션: 2026-06-11T14-46_
 - Use smaller model in orchestration due to memory.
 - Change the model and retry.
 _세션: 2026-06-11T15-31_
+
+## [2026-06-11] 아니 파이톤에서 뭐가 필요하냐고 , 
+그리고 llm 호출실패는 뭐야
+- 메모리 부족 시 작은 모델 선택하도록 설정
+- Ollama/LM Studio 서버가 실행 중인지 확인
+- 컨텍스트 길이를 최소 8192로 조정
+_세션: 2026-06-11T15-35_
