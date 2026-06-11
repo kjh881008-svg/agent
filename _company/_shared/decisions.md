@@ -168,3 +168,9 @@ _세션: 2026-06-11T14-16_
 - 썸네일 디자인에서 #FF6B6B 색상을 강조 색상으로 사용
 - WCAG AA 대비비율 4.5:1 기준을 모든 디자인에 적용
 _세션: 2026-06-11T14-46_
+
+## [2026-06-11] python 패키지 뭐가 필요하고 어디에 설치 해야하는지 
+말해줘
+- Use smaller model in orchestration due to memory.
+- Change the model and retry.
+_세션: 2026-06-11T15-31_
